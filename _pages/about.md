@@ -35,7 +35,7 @@ My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understa
 **Shengpeng Wang**, Yulong Xie, Qing Liao, Yue Cao, Wei Wang
 
 [**Project**](https://stellaresti.github.io/s3e) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The pioneering endeavor to achieve state estimation and landmark extraction from radar signal spectra and inertial data in a self-supervised manner.
 </div>
 </div>
 
@@ -48,7 +48,7 @@ My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understa
 **Shengpeng Wang**, Xin Luo, Yulong Xie, Wei Wang
 
 [**Project**](https://stellaresti.github.io/sddiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This is the first attempt to simultaneously attain dense point clouds and accurate ego velocity from the Spatial-Doppler Domain Representation
 </div>
 </div>
 
