@@ -34,7 +34,7 @@ My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understa
 
 **Shengpeng Wang**, Yulong Xie, Qing Liao, Yue Cao, Wei Wang
 
-[**Project**](https://stellaresti.github.io/s3e) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://stellaresti.github.io/sddiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The pioneering endeavor to achieve state estimation and landmark extraction from radar signal spectra and inertial data in a self-supervised manner.
 </div>
 </div>
