@@ -86,6 +86,4 @@ Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 <!-- Visitor map: container keeps the map constrained and styled -->
-<!-- <div id="visitor-map" class="visitor-map"></div>
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=YZaDOIS5YNzG9UvsWIZhSzWDBfnHDZJ_8yc8uRkoH08&cl=ffffff&w=a"></script> -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=afd7b1&w=a&t=tt&d=JqOfuD1nylwqylb3pns92v6f2cGbxwTpjK9a5hqXXM0&co=e5ecf1&cmn=8f3acc&ct=010000'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=afd7b1&w=300&t=tt&d=JqOfuD1nylwqylb3pns92v6f2cGbxwTpjK9a5hqXXM0&co=e5ecf1&cmn=8f3acc&ct=010000'></script>
