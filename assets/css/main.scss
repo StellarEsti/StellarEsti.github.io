@@ -111,7 +111,7 @@ h1:before, .anchor:before {
 /* Visitor map styling */
 .visitor-map {
     width: 100%;
-    max-width: 350px;
+    max-width: 300px;
     height: 140px;
     margin: 0.75rem auto;
     border-radius: 6px;
@@ -143,3 +143,28 @@ h1:before, .anchor:before {
         padding: 0 0.5rem;
     }
 }
+
+/* Strong constraints for third-party injected elements */
+.visitor-map, .visitor-map * {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: 100% !important;
+    box-sizing: border-box !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    position: relative !important;
+    left: auto !important;
+    right: auto !important;
+    transform: none !important;
+}
+
+/* If the script creates an iframe or canvas directly, target them specifically */
+.visitor-map iframe, .visitor-map canvas, .visitor-map div {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+}
+
+/* If injected element appears outside the container, this hides it (use only if necessary) */
+/* body > .mapmyvisitors, body > #mapmyvisitors_container { display:none !important; } */
