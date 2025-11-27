@@ -22,10 +22,24 @@ Hi there! I am Shengpeng Wang, a PhD student at Huazhong University of Science a
 My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understanding in adverse scenes, if you have an excellent project for collaboration, please **email me**!
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our radar-based SLAM paper is accepted to **ICCV'25**.
-- *2025.04*: &nbsp;🎉🎉 Our 3D Perception paper is accepted to **IJCAI'25**.
+- *2025.11*: &nbsp;🎉🎉 Our 3D Spatial Perception paper is accepted to **AAAI'25 oral**.
+- *2025.06*: &nbsp;🎉🎉 Our radar-based SLAM paper is accepted to **ICCV'25 poster**.
+- *2025.04*: &nbsp;🎉🎉 Our 3D Perception paper is accepted to **IJCAI'25 oral**.
 
 # 📝 Publications 
+<!-- aaai 2025 rald -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RaLD: Generating High-Resolution 3D Radar Point Clouds with Latent Diffusion](https://arxiv.org/abs/2506.16936)
+
+Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
+
+[**Project**](https://stellaresti.github.io/rald) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This introduces a new paradigm for spectrum-conditioned 3D point cloud generation from radar to enhance both the fidelity and structural integrity of point clouds.
+</div>
+</div>
+
 <!-- iccv 2025 s3e -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
