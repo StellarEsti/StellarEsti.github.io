@@ -89,4 +89,4 @@ Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 <!-- <div id="visitor-map" class="visitor-map"></div>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=YZaDOIS5YNzG9UvsWIZhSzWDBfnHDZJ_8yc8uRkoH08&cl=ffffff&w=a"></script> -->
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=5fa851&w=300&t=tt&d=YZaDOIS5YNzG9UvsWIZhSzWDBfnHDZJ_8yc8uRkoH08&co=bfced9&ct=290b0b&cmn=7a3acc'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://cdn.clustrmaps.com/map_v2.js?cl=5fa851&w=300&t=tt&d=YZaDOIS5YNzG9UvsWIZhSzWDBfnHDZJ_8yc8uRkoH08&co=bfced9&ct=290b0b&cmn=7a3acc'></script>
