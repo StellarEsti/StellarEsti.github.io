@@ -107,3 +107,34 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Visitor map styling */
+.visitor-map {
+    width: 100%;
+    max-width: 900px;
+    height: 420px;
+    margin: 2rem auto;
+    border-radius: 8px;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    overflow: hidden;
+    border: 1px solid #eee;
+}
+
+.visitor-map > * {
+    width: 100% !important;
+    height: 100% !important;
+    display: block;
+}
+
+@include breakpoint($medium) {
+    .visitor-map {
+        height: 360px;
+    }
+}
+
+@include breakpoint($small) {
+    .visitor-map {
+        height: 260px;
+        margin: 1.25rem auto;
+    }
+}
