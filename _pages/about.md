@@ -59,7 +59,7 @@ My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 oral</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RaLD: Generating High-Resolution 3D Radar Point Clouds with Latent Diffusion](https://arxiv.org/abs/2506.16936)
+[RaLD: Generating High-Resolution 3D Radar Point Clouds with Latent Diffusion](https://arxiv.org/abs/2511.07067)
 
 Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 
@@ -68,7 +68,21 @@ Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 </div>
 </div>
 
+<!-- cvpr 2026 rauf -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">cvpr 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RaUF: Learning the Spatial Uncertainty Field of Radar](https://arxiv.org/abs/2603.01026v1)
+
+**Shengpeng Wang**, Kuangyu Wang, Wei Wang
+
+[**Project**](https://stellaresti.github.io/rald) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce a novel radar perception framework that learns anisotropic geometric uncertainty calibration to resolve the inherently ill-posed geometric inference of low-fidelity radar space.
+</div>
+</div>
+
 # 🎖 Honors and Awards
+- *2025.10* **Huawei Scholarship** Awarded in HUST
 - *2022-2025* Ph.D. Scholarships.
 - *2022.10* **Second Prize** of Huawei Cup Chinese Graduate Mathematical Modeling Competition
 - *2022.04* **First Prize** of National College Student Mathematics Competition
