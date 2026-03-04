@@ -22,6 +22,7 @@ Hi there! I am Shengpeng Wang, a PhD student at Huazhong University of Science a
 My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understanding in adverse scenes, if you have an excellent project for collaboration, please **email me**!
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our Spatial Uncertainty paper is accepted to **CVPR'26**.
 - *2025.11*: &nbsp;🎉🎉 Our 3D Spatial Perception paper is accepted to **AAAI'25 oral**.
 - *2025.06*: &nbsp;🎉🎉 Our radar-based SLAM paper is accepted to **ICCV'25 poster**.
 - *2025.04*: &nbsp;🎉🎉 Our 3D Perception paper is accepted to **IJCAI'25 oral**.
