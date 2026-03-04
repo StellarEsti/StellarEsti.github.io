@@ -76,7 +76,7 @@ Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 
 **Shengpeng Wang**, Kuangyu Wang, Wei Wang
 
-[**Project**](https://stellaresti.github.io/rald) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://stellaresti.github.io/rauf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We introduce a novel radar perception framework that learns anisotropic geometric uncertainty calibration to resolve the inherently ill-posed geometric inference of low-fidelity radar space.
 </div>
 </div>
