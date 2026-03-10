@@ -46,7 +46,7 @@ My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 poster</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[S3E: Self-Supervised State Estimator for Radar-Inertial System]([https://arxiv.org/abs/2506.16936](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_S3E_Self-Supervised_State_Estimation_for_Radar-Inertial_System_ICCV_2025_paper.html))
+[S3E: Self-Supervised State Estimator for Radar-Inertial System](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_S3E_Self-Supervised_State_Estimation_for_Radar-Inertial_System_ICCV_2025_paper.html)
 
 **Shengpeng Wang**, Yulong Xie, Qing Liao, Yue Cao, Wei Wang
 
