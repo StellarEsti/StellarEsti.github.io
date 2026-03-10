@@ -29,6 +29,18 @@ My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understa
 
 # 📝 Publications 
 
+<!-- cvpr 2026 rauf -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">cvpr 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RaUF: Learning the Spatial Uncertainty Field of Radar](https://arxiv.org/abs/2603.01026v1)
+
+**Shengpeng Wang**, Kuangyu Wang, Wei Wang
+
+[**Project**](https://stellaresti.github.io/rauf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce a novel radar perception framework that learns anisotropic geometric uncertainty calibration to resolve the inherently ill-posed geometric inference of low-fidelity radar space.
+</div>
+</div>
 
 <!-- iccv 2025 s3e -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 poster</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
@@ -69,18 +81,7 @@ Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 </div>
 </div>
 
-<!-- cvpr 2026 rauf -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">cvpr 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[RaUF: Learning the Spatial Uncertainty Field of Radar](https://arxiv.org/abs/2603.01026v1)
-
-**Shengpeng Wang**, Kuangyu Wang, Wei Wang
-
-[**Project**](https://stellaresti.github.io/rauf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We introduce a novel radar perception framework that learns anisotropic geometric uncertainty calibration to resolve the inherently ill-posed geometric inference of low-fidelity radar space.
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2025.10* **Huawei Scholarship** Awarded in HUST
