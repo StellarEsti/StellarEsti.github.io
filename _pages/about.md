@@ -34,11 +34,11 @@ My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 poster</div><img src='images/iccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[S3E: Self-Supervised State Estimator for Radar-Inertial System](https://arxiv.org/abs/2506.16936)
+[S3E: Self-Supervised State Estimator for Radar-Inertial System]([https://arxiv.org/abs/2506.16936](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_S3E_Self-Supervised_State_Estimation_for_Radar-Inertial_System_ICCV_2025_paper.html))
 
 **Shengpeng Wang**, Yulong Xie, Qing Liao, Yue Cao, Wei Wang
 
-[**Project**](https://stellaresti.github.io/sddiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://shengpeng.wang/s3e) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The pioneering endeavor to achieve state estimation and landmark extraction from radar signal spectra and inertial data in a self-supervised manner.
 </div>
 </div>
@@ -88,7 +88,7 @@ Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 - *2022.10* **Second Prize** of Huawei Cup Chinese Graduate Mathematical Modeling Competition
 - *2022.04* **First Prize** of National College Student Mathematics Competition
 - *2021.04* **Finalist** of Mathematical Contest In Modeling
-- *2020.09* **First Prize** of National College Student Mathematical Modeling Competition of High Education Society Cup. 
+- *2020.09* **First Prize** of the National College Student Mathematical Modeling Competition of High Education Society Cup. 
 
 
 # 📖 Educations
