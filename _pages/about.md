@@ -96,10 +96,10 @@ Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 </div>
 
 # 🌐 Academic Service
-- Conference and Journal Reviewer: CVPR, ICCV, ICML, NeurIPS, IJCAI, AAAI, ICRA, RA-L, TMC.
-- Review Areas: embodied spatial intelligence, 3D perception, robotic perception, multimodal fusion, radar perception, autonomous localization, and spatial reconstruction.
-- Conference Volunteer: International Joint Conference on Artificial Intelligence, 2025.
-- Invited Academic Activities: Ali Star Academic Seminar on Foundation and Multimodal Models; Invited research presentation at ZANQI Technology; Invited research presentation at ArtInHCI 2026.
+- **Conference and Journal Reviewer**: CVPR, ICCV, ICML, NeurIPS, IJCAI, AAAI, ICRA, RA-L, TMC.
+- **Review Areas**: embodied spatial intelligence, 3D perception, robotic perception, multimodal fusion, radar perception, autonomous localization, and spatial reconstruction.
+- **Conference Volunteer**: International Joint Conference on Artificial Intelligence, 2025.
+- **Invited Academic Activities**: Ali Star Academic Seminar on Foundation and Multimodal Models; Invited research presentation at ZANQI Technology; Invited research presentation at ArtInHCI 2026.
 
 # 🎖 Honors and Awards
 - *2025.10* **Huawei Scholarship** Awarded in HUST
