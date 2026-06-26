@@ -19,18 +19,32 @@ redirect_from:
 
 Hi there! I am Shengpeng Wang, a PhD student at Huazhong University of Science and Technology. I am currently a member of <a href='https://metaiot.group/team/'><strong><span id='orginazation'>metaiot</span></strong></a> under the supervision of Prof. <a href='https://metaiot.group/weiwang.html'><strong><span id='orginazation'>Wei Wang</span></strong></a>. Before that, I obtained my bachelor's degree at the School of Information and Engineering, Wuhan University of Technology.
 
-My research interest includes SLAM, Gaussian Splatting, 3D Perception & Understanding in adverse scenes, if you have an excellent project for collaboration, please **email me**!
+My research interest includes World Action Model, SLAM, Gaussian Splatting, 3D Perception & Understanding in adverse scenes, if you have an excellent project for collaboration, please **email me**!
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Our Spatial Uncertainty paper is accepted to **CVPR'26**.
+- *2026.06*: &nbsp;🎉🎉 Our paper about Radar-Inertial calibration and imaging is accepted to **ECCV'26**.
+- *2026.02*: &nbsp;🎉🎉 Our Spatial Uncertainty paper is accepted to **CVPR'26 HighLight**.
 - *2025.11*: &nbsp;🎉🎉 Our 3D Spatial Perception paper is accepted to **AAAI'25 oral**.
 - *2025.06*: &nbsp;🎉🎉 Our radar-based SLAM paper is accepted to **ICCV'25 poster**.
 - *2025.04*: &nbsp;🎉🎉 Our 3D Perception paper is accepted to **IJCAI'25 oral**.
 
 # 📝 Publications 
 
+<!-- eccv 2026 RadarCalib -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/eccv.png' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
+
+Mitigating Calibration Plights via Arbitrary Rotational Manipulation
+
+Chunshen Li*, **Shengpeng Wang***, Zitao Ye, Wei Wang
+
+[**Project**](https://stellaresti.github.io/rauf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This work studies practical calibration challenges in radar-inertial systems and investigates a flexible rotational manipulation strategy for improving calibration and imaging reliability.
+</div>
+</div>
+
 <!-- cvpr 2026 rauf -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">cvpr 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 highlight</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RaUF: Learning the Spatial Uncertainty Field of Radar](https://arxiv.org/abs/2603.01026v1)
@@ -81,7 +95,11 @@ Ruijie Zhang, Bixin Zeng, **Shengpeng Wang**, Fuhui Zhou, Wei Wang
 </div>
 </div>
 
-
+# 🌐 Academic Service
+- Conference and Journal Reviewer: CVPR, ICCV, ICML, NeurIPS, IJCAI, AAAI, ICRA, RA-L, TMC.
+- Review Areas: embodied spatial intelligence, 3D perception, robotic perception, multimodal fusion, radar perception, autonomous localization, and spatial reconstruction.
+- Conference Volunteer: International Joint Conference on Artificial Intelligence, 2025.
+- Invited Academic Activities: Ali Star Academic Seminar on Foundation and Multimodal Models; Invited research presentation at ZANQI Technology; Invited research presentation at ArtInHCI 2026.
 
 # 🎖 Honors and Awards
 - *2025.10* **Huawei Scholarship** Awarded in HUST
