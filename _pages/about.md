@@ -22,6 +22,7 @@ Hi there! I am Shengpeng Wang, a PhD student at Huazhong University of Science a
 My research interest includes World Action Model, SLAM, Gaussian Splatting, 3D Perception & Understanding in adverse scenes, if you have an excellent project for collaboration, please **email me**!
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 Our paper RaVF: Learning Radar Velocity Fields via Spatial-Doppler Guidance is accepted to **NeurIPS'26 poster**.
 - *2026.06*: &nbsp;🎉🎉 Our paper about Radar-Inertial calibration and imaging is accepted to **ECCV'26**.
 - *2026.02*: &nbsp;🎉🎉 Our Spatial Uncertainty paper is accepted to **CVPR'26 HighLight**.
 - *2025.11*: &nbsp;🎉🎉 Our 3D Spatial Perception paper is accepted to **AAAI'25 oral**.
@@ -29,6 +30,19 @@ My research interest includes World Action Model, SLAM, Gaussian Splatting, 3D P
 - *2025.04*: &nbsp;🎉🎉 Our 3D Perception paper is accepted to **IJCAI'25 oral**.
 
 # 📝 Publications 
+
+<!-- neurips 2026 ravf -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 poster</div><img src='images/RAVF_Poster_5120.png' alt="RaVF: Learning Radar Velocity Fields via Spatial-Doppler Guidance poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RaVF: Learning Radar Velocity Fields via Spatial-Doppler Guidance](https://shengpeng.wang/RaVF/)
+
+**Shengpeng Wang**\*, Lingzhen Li\*, Chunshen Li, Fei Xiao, Wei Wang
+
+[**Project**](https://shengpeng.wang/RaVF/)
+- We learn radar velocity fields from spatial-Doppler spectra by separating ego-induced static Doppler from dynamic motion and aligning bidirectional flow, jointly recovering occupancy, ego velocity, and dynamic flow.
+</div>
+</div>
 
 <!-- eccv 2026 RadarCalib -->
 
